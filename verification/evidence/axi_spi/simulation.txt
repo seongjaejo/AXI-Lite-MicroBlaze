@@ -1,0 +1,2 @@
+AUDIT AXI transactions=16 errors=0 intrPulses=16
+AUDIT AXI SPI PASS

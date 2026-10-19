@@ -1,0 +1,13 @@
+[
+  {
+    "name": "axi_spi",
+    "sources": [
+      "ip_repo/spi_master_1.0/hdl/*.v",
+      "slave-board/rtl/spi_slave.sv"
+    ],
+    "tb": "verification/tb/axi_spi.sv",
+    "top": "audit_axi",
+    "pass_marker": "AUDIT AXI SPI PASS",
+    "assets": []
+  }
+]
